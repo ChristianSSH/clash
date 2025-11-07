@@ -1,9 +1,0 @@
-# 内容：OpenAi Bard anthropic
-# 域名关键字匹配
-# DOMAIN-KEYWORD,openai
-# DOMAIN-KEYWORD,anthropic
-# DOMAIN-KEYWORD,Claude
-# 域名后缀匹配
-
-DOMAIN-SUFFIX,formula1.com
-DOMAIN-SUFFIX,f1.com
