@@ -5,5 +5,5 @@ DOMAIN-SUFFIX,formula1.com
 DOMAIN-SUFFIX,f1.com
 DOMAIN-SUFFIX,f1tv.com
 DOMAIN-SUFFIX,contentdirect.tv
-DOMAIN-KEYWORD,formula1
-DOMAIN-KEYWORD,f1accountprod
+DOMAIN-SUFFIX,my.site.com
+DOMAIN-SUFFIX,stripe.network
